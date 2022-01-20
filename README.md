@@ -1,3 +1,3 @@
 # Coursera-ML-Python-Assignments
 
-## Coursera Machine Learning MOOC by Andrew Ng
+## Coursera Machine Learning Course by Andrew Ng
